@@ -457,7 +457,7 @@ form input {
     outline: none;
     font-size: 1rem;
     font-weight: 500;
-    color: white;
+    color: black;
     transition: all 0.3s ease-in-out;
 }
 
